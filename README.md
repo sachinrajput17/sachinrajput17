@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 📫 How to reach me: 
- -  Gmail -  sachin.k.rajput17@gmail.com
- -  LinkedIn - https://www.linkedin.com/in/sachinrajput17/
+  -  Gmail -  sachin.k.rajput17@gmail.com
+  -  LinkedIn - https://www.linkedin.com/in/sachinrajput17/
 
 <!--
 **sachinrajput17/sachinrajput17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
