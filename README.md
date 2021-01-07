@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-- 📫 How to reach me: 
-  -  Gmail -  sachin.k.rajput17@gmail.com
-  -  LinkedIn - https://www.linkedin.com/in/sachinrajput17/
+I am SACHIN KUMAR.
+  <h2>📫 How to reach me:</h2>
+
+<a href="mailto:achin.k.rajput17@gmail.com">![sachin.k.rajput17@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/sachinrajput17/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> 
 
 <!--
 **sachinrajput17/sachinrajput17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
