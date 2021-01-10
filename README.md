@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I am SACHIN Kumar.
+I am Sachin Kumar.
 
-📈 I love using data to tell stories, make better decisions, model complex systems, analyze behavior, and solve problems.
+📈 I love using data to tell stories,extract insights, make better decisions,find patterns, model complex systems, analyze behavior, and solve problems.
 
   <h2>📫 How to reach me:</h2>
   
